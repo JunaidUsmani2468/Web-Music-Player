@@ -6,7 +6,7 @@ This project was completed as part of a learning module under the guidance of **
 
 ## 📸 Preview
 
-![Spotify Clone UI Preview](./preview.png)
+![Spotify Clone UI Preview](./assets/Spotify-Clone-SS.png)
 
 ## ✨ Features
 
