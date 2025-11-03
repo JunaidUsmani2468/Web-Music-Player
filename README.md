@@ -12,7 +12,7 @@ This project was completed as part of a learning module under the guidance of **
 
 This is a static UI-only project, but it successfully replicates the visual components of the Spotify app, including:
 
-- **Left Navigation Sidebar:** A collapsible sidebar with links for Home, Search, and Your Library, as well as playlist creation.
+- **Left Navigation Sidebar:** A sidebar with links for Home, Search, and Your Library, as well as playlist creation.
 - **Main Content Area:** A dynamic-looking grid layout showcasing "Trending" and "Featured" charts.
 - **Bottom Music Player:** A persistent player bar at the bottom, which includes:
   - Song information (artist and title).
@@ -24,7 +24,7 @@ This is a static UI-only project, but it successfully replicates the visual comp
 
 - **HTML5:** Used for the semantic structure and markup of the application.
 - **CSS3:** Used for all styling, including:
-  - **CSS Flexbox** and **CSS Grid** for creating complex, responsive layouts.
+  - **CSS Flexbox** for creating complex, responsive layouts.
   - Custom properties (variables) for managing the color palette and spacing.
   - Font Awesome for icons.
 
