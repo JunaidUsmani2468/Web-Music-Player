@@ -4,7 +4,8 @@ This project is a high-fidelity, static clone of the Spotify desktop application
 
 This project was completed as part of a learning module under the guidance of **Shradha Khapra (Apna College)**.
 
-📌 A Note on the Project Name: This project is an educational clone of the Spotify web player. To comply with trademark policies and respect the official brand, this repository has been given a generic name (Web-Music-Player) and is not affiliated with Spotify.
+#### 📌 A Note on the Project Name:
+This project is an educational clone of the Spotify web player. To comply with trademark policies and respect the official brand, this repository has been given a generic name (Web-Music-Player) and is not affiliated with Spotify.
 
 ---
 
