@@ -11,7 +11,7 @@ This project was completed as part of a learning module under the guidance of **
 ### 🚀 Live Demo
 
 You can view the live deployed project here:
-**[Click here to view the live project!](https://junaidusmani2468.github.io/Spotify-Clone/)**
+**[Click here to view the live project!](https://junaidusmani2468.github.io/Web-Music-Player/)**
 
 ---
 
