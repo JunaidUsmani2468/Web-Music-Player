@@ -7,18 +7,6 @@ This project was completed as part of a learning module under the guidance of **
 #### 📌 A Note on the Project Name:
 This project is an educational clone of the Spotify web player. To comply with trademark policies and respect the official brand, this repository has been given a generic name (Web-Music-Player) and is not affiliated with Spotify.
 
----
-
-## 🚀 Live Demo
-
-#### 🖥️ Recommended Usage
-"This application is currently designed for a desktop/laptop experience and is not yet optimized for mobile devices. For the best experience, please view it on a PC."
-
-You can view the live deployed project here:
-**[Click here to view the live project!](https://junaidusmani2468.github.io/Web-Music-Player/)**
-
----
-
 ## 📸 Preview
 
 ![Spotify Clone UI Preview](./assets/Spotify-Clone-SS.png)
