@@ -1,11 +1,17 @@
+> ### ⚠️ **DISCLAIMER: EDUCATIONAL PROJECT** ⚠️
+>
+> **This project is an non-functional clone of the Spotify homepage. It was created solely for educational purposes and to demonstrate front-end web development skills.**
+>
+> - **THIS IS NOT THE OFFICIAL SPOTIFY WEBSITE.**
+> - This project is **NOT** intended for any malicious purposes, phishing, or to steal user credentials. All forms are non-functional.
+> - **NO DATA IS COLLECTED OR STORED.**
+> - **A NOTE ON FLAGGIN**G: I am adding this disclaimer and I'm not hosting this project because my repository was previously removed by GitHub and flagged by Google as a "danger site." This is 100% a student project, and I am taking these precautions to prove its educational intent.
+
 # Spotify UI Clone 🎵
 
 This project is a high-fidelity, static clone of the Spotify desktop application's user interface. It was built from scratch using only **HTML5** and **CSS3** to practice and showcase front-end web development skills.
 
 This project was completed as part of a learning module under the guidance of **Shradha Khapra (Apna College)**.
-
-#### 📌 A Note on the Project Name:
-This project is an educational clone of the Spotify web player. To comply with trademark policies and respect the official brand, this repository has been given a generic name (Web-Music-Player) and is not affiliated with Spotify.
 
 ## 📸 Preview
 
