@@ -37,25 +37,11 @@ This is a static UI-only project, but it successfully replicates the visual comp
   - Custom properties (variables) for managing the color palette and spacing.
   - Font Awesome for icons.
 
-## 🚀 How to Use
+## 🏃 How to Run Locally
 
-To view the project, simply clone the repository and open the `index.html` file in your web browser.
-
-1.  **Clone the repository:**
-
-    ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    ```
-
-    _(Or download the ZIP file)_
-
-2.  **Navigate to the project directory:**
-
-    ```sh
-    cd YOUR_REPOSITORY_NAME
-    ```
-
-3.  **Open the `index.html` file in your browser.**
+1.  Clone this repository to your local machine.
+2.  Navigate to the project directory.
+3.  Open the `index.html` file in your web browser.
 
 ## 🙏 Acknowledgements
 
